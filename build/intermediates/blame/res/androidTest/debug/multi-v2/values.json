@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\AndroidProject\\mine\\advance\\EasyRecyclerView-master\\easyrecyclerview\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\AndroidProject\\mine\\advance\\EasyRecyclerView-master\\easyrecyclerview\\build\\intermediates\\packaged_res\\debug\\values\\values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "23",
+                        "endColumns": "24",
+                        "endOffsets": "1130"
+                    }
+                }
+            ]
+        }
+    ]
+}

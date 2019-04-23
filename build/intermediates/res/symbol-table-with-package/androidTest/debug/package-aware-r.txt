@@ -1,0 +1,25 @@
+com.jude.easyrecyclerview.test
+attr layout_empty
+attr layout_error
+attr layout_progress
+attr recyclerClipToPadding
+attr recyclerPadding
+attr recyclerPaddingBottom
+attr recyclerPaddingLeft
+attr recyclerPaddingRight
+attr recyclerPaddingTop
+attr scrollbarStyle
+attr scrollbars
+id empty
+id error
+id horizontal
+id insideInset
+id insideOverlay
+id none
+id outsideInset
+id outsideOverlay
+id progress
+id ptr_layout
+id vertical
+layout layout_progress_recyclerview
+styleable EasyRecyclerView layout_empty layout_error layout_progress recyclerClipToPadding recyclerPadding recyclerPaddingBottom recyclerPaddingLeft recyclerPaddingRight recyclerPaddingTop scrollbarStyle scrollbars

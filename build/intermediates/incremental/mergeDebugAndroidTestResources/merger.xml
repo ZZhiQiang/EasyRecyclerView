@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="__tested_artifact__::easyrecyclerview$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\AndroidProject\mine\advance\EasyRecyclerView-master\easyrecyclerview\build\intermediates\packaged_res\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="__tested_artifact__::easyrecyclerview" from-dependency="true" generated-set="__tested_artifact__::easyrecyclerview$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\AndroidProject\mine\advance\EasyRecyclerView-master\easyrecyclerview\build\intermediates\packaged_res\debug"><file name="layout_progress_recyclerview" path="D:\AndroidProject\mine\advance\EasyRecyclerView-master\easyrecyclerview\build\intermediates\packaged_res\debug\layout\layout_progress_recyclerview.xml" qualifiers="" type="layout"/><file path="D:\AndroidProject\mine\advance\EasyRecyclerView-master\easyrecyclerview\build\intermediates\packaged_res\debug\values\values.xml" qualifiers=""><declare-styleable name="EasyRecyclerView">
+        <attr format="reference" name="layout_empty"/>
+        <attr format="reference" name="layout_progress"/>
+        <attr format="reference" name="layout_error"/>
+        <attr format="boolean" name="recyclerClipToPadding"/>
+        <attr format="dimension" name="recyclerPadding"/>
+        <attr format="dimension" name="recyclerPaddingTop"/>
+        <attr format="dimension" name="recyclerPaddingBottom"/>
+        <attr format="dimension" name="recyclerPaddingLeft"/>
+        <attr format="dimension" name="recyclerPaddingRight"/>
+        <attr name="scrollbarStyle">
+            <enum name="insideOverlay" value="0x0"/>
+            <enum name="insideInset" value="0x01000000"/>
+            <enum name="outsideOverlay" value="0x02000000"/>
+            <enum name="outsideInset" value="0x03000000"/>
+        </attr>
+        <attr name="scrollbars">
+            <enum name="vertical" value="1"/>
+            <enum name="horizontal" value="0"/>
+            <enum name="none" value="2"/>
+        </attr>
+    </declare-styleable></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="androidTest$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\AndroidProject\mine\advance\EasyRecyclerView-master\easyrecyclerview\src\androidTest\res"/><source path="D:\AndroidProject\mine\advance\EasyRecyclerView-master\easyrecyclerview\build\generated\res\rs\androidTest\debug"/><source path="D:\AndroidProject\mine\advance\EasyRecyclerView-master\easyrecyclerview\build\generated\res\resValues\androidTest\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="androidTest" generated-set="androidTest$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\AndroidProject\mine\advance\EasyRecyclerView-master\easyrecyclerview\src\androidTest\res"/><source path="D:\AndroidProject\mine\advance\EasyRecyclerView-master\easyrecyclerview\build\generated\res\rs\androidTest\debug"/><source path="D:\AndroidProject\mine\advance\EasyRecyclerView-master\easyrecyclerview\build\generated\res\resValues\androidTest\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="androidTestDebug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\AndroidProject\mine\advance\EasyRecyclerView-master\easyrecyclerview\src\androidTestDebug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="androidTestDebug" generated-set="androidTestDebug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="D:\AndroidProject\mine\advance\EasyRecyclerView-master\easyrecyclerview\src\androidTestDebug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="EasyRecyclerView">
+        <attr format="reference" name="layout_empty"/>
+        <attr format="reference" name="layout_progress"/>
+        <attr format="reference" name="layout_error"/>
+        <attr format="boolean" name="recyclerClipToPadding"/>
+        <attr format="dimension" name="recyclerPadding"/>
+        <attr format="dimension" name="recyclerPaddingTop"/>
+        <attr format="dimension" name="recyclerPaddingBottom"/>
+        <attr format="dimension" name="recyclerPaddingLeft"/>
+        <attr format="dimension" name="recyclerPaddingRight"/>
+        <attr name="scrollbarStyle">
+            <enum name="insideOverlay" value="0x0"/>
+            <enum name="insideInset" value="0x01000000"/>
+            <enum name="outsideOverlay" value="0x02000000"/>
+            <enum name="outsideInset" value="0x03000000"/>
+        </attr>
+        <attr name="scrollbars">
+            <enum name="vertical" value="1"/>
+            <enum name="horizontal" value="0"/>
+            <enum name="none" value="2"/>
+        </attr>
+    </declare-styleable></configuration></mergedItems></merger>
